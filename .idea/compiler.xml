@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="testeparquet" />
+        <module name="parquetBaby" />
       </profile>
     </annotationProcessing>
   </component>
